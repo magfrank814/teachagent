@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|solutionrelative:teachagent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|c:\\users\\wzc\\documents\\projects\\teachagent\\teachagent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|solutionrelative:teachagent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|solutionrelative:teachagent\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\teachplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|solutionrelative:teachagent\\teachplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9379916-8797-45DB-9E44-A656EB0BAE5F}|teachagent\\teachagent.csproj|solutionrelative:teachagent\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|teachagent||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "help.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\help.cs",
+              "RelativeDocumentMoniker": "teachagent\\help.cs",
+              "ToolTip": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\help.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "teachagent\\help.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:57:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\Form1.cs",
+              "RelativeDocumentMoniker": "teachagent\\Form1.cs",
+              "ToolTip": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "teachagent\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:36:18.712Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\Form1.cs",
+              "RelativeDocumentMoniker": "teachagent\\Form1.cs",
+              "ToolTip": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\Form1.cs",
+              "RelativeToolTip": "teachagent\\Form1.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAAAFABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:00:48.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "teachagent",
+              "DocumentMoniker": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\teachagent.csproj",
+              "RelativeDocumentMoniker": "teachagent\\teachagent.csproj",
+              "ToolTip": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\teachagent.csproj",
+              "RelativeToolTip": "teachagent\\teachagent.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-29T04:09:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\function.cs",
+              "RelativeDocumentMoniker": "teachagent\\function.cs",
+              "ToolTip": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\function.cs",
+              "RelativeToolTip": "teachagent\\function.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:48:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "teachplus.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\teachplus.cs",
+              "RelativeDocumentMoniker": "teachagent\\teachplus.cs",
+              "ToolTip": "C:\\Users\\wzc\\Documents\\Projects\\teachagent\\teachagent\\teachplus.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "teachagent\\teachplus.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:43:42.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

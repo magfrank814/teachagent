@@ -1,0 +1,17 @@
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\bin\Release\teachagent.exe.config
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\bin\Release\teachagent.exe.manifest
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\bin\Release\teachagent.application
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\bin\Release\teachagent.exe
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\bin\Release\teachagent.pdb
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.csproj.AssemblyReference.cache
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.fail.resources
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.Form1.resources
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.Properties.Resources.resources
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.suc.resources
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.csproj.GenerateResource.cache
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.csproj.CoreCompileInputs.cache
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.exe.manifest
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.application
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.exe
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.pdb
+C:\Users\wzc\Documents\Projects\teachagent\teachagent\obj\Release\teachagent.help.resources
